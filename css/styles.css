@@ -1,0 +1,15 @@
+h2.intro {
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.intro {
+  font-weight: bold;
+  background-color: rgb(243, 187, 243);
+  padding: 30px;
+}
+
+img.intro {
+  width: 85%;
+  height: 85%;
+}
